@@ -1,0 +1,5 @@
+package: github.com/wanghaoran1988/go-http2-example
+import:
+- package: golang.org/x/net
+  subpackages:
+  - http2
